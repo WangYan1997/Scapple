@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <ScappleDocument ID="D6786F2A-A2B9-4708-BF24-102AA55AD703" Version="1.1">
    <Notes>
-      <Note Width="57.4219" FontSize="12" ID="0" Position="640.6,349.2">
+      <Note Width="57.4219" FontSize="12" ID="0" Position="640.6,349.2" Shadow="Yes">
          <Appearance>
             <Alignment>Left</Alignment>
             <Border Weight="3" Style="Square"/>
