@@ -8,6 +8,9 @@
             <Fill>0.934157 0.888319 0.785290</Fill>
             <Border Weight="1" Style="Square">0.269490 0.164034 0.186694</Border>
          </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,4</FormatRange>
+         </Formatting>
          <String>安比电子</String>
       </Note>
    </Notes>
