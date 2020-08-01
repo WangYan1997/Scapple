@@ -4,7 +4,7 @@
       <Note Width="57.4219" FontSize="12" ID="0" Position="640.6,349.2">
          <Appearance>
             <Alignment>Left</Alignment>
-            <Border Weight="0" Style="Rounded"/>
+            <Border Weight="5" Style="Rounded"/>
          </Appearance>
          <String>安比电子</String>
       </Note>
