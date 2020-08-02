@@ -13,6 +13,7 @@
          </Formatting>
          <String>安比电子</String>
          <ConnectedNoteIDs>1, 3</ConnectedNoteIDs>
+         <PointsToNoteIDs>1</PointsToNoteIDs>
       </Note>
       <Note Width="64.4165" FontSize="12" ID="1" Position="773.4,300.8">
          <Appearance>
