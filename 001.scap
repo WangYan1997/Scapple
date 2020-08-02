@@ -12,7 +12,7 @@
             <FormatRange Bold="Yes">0,4</FormatRange>
          </Formatting>
          <String>安比电子</String>
-         <ConnectedNoteIDs>1-2</ConnectedNoteIDs>
+         <ConnectedNoteIDs>1-3</ConnectedNoteIDs>
       </Note>
       <Note Width="64.4165" FontSize="12" ID="1" Position="773.4,300.8">
          <Appearance>
@@ -29,6 +29,14 @@
          </Appearance>
          <String>安比电子3</String>
          <ConnectedNoteIDs>0-1</ConnectedNoteIDs>
+      </Note>
+      <Note Width="64.4165" FontSize="12" ID="3" Position="450.8,353.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>安比电子4</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
       </Note>
    </Notes>
    <BackgroundShapes/>
