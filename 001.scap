@@ -13,6 +13,13 @@
          </Formatting>
          <String>安比电子</String>
       </Note>
+      <Note Width="64.4165" FontSize="12" ID="1" Position="773.4,300.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>安比电子2</String>
+      </Note>
    </Notes>
    <BackgroundShapes/>
    <NoteStyles>
